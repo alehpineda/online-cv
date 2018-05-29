@@ -1,11 +1,10 @@
 language: ruby
+
 rvm:
 - 2.5.1
 
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
 script:
-- bundle exec jekyll build
+- jekyll build
 
 notifications:
   email: true
