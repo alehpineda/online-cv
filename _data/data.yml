@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: alehpineda@gmail.com
-    whatsapp: +5218711866100
+    phone: +5218711866100
     website: alehpineda.com #do not add http://
     linkedin: alehpineda
     github: alehpineda
@@ -28,6 +28,12 @@ sidebar:
         - language:
           idiom: Español
           level: Native
+        - language:
+          idiom: Japanese
+          level: Basic
+        - language:
+          idiom: French
+          level: Basic                    
         
     interests:
         - interest:
@@ -40,30 +46,26 @@ sidebar:
           item: Cooking
           link:
 
-        
-
-
-
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'Since five years ago, I have been an IT consultant on several areas like web development, software development, GNU/Linux servers, and IT Security. Big fan of the Python language, Data Scientist wizard, Docker captain in training, Free Software advocate, I tango with Django, Angular defender, Raspberry Pi maker, Cloud Computing is only another guys computer, import this.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: Electrical Engineering, M.S.E
+      university: Instituto Tecnologico Nacional de México - Campus Laguna
+      time: 2010 - 2012
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      degree: Electronical Engineering
+      university: Instituto Tecnologico Nacional de México - Campus Laguna
+      time: 2006 - 2010
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -72,30 +74,29 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Portafolio, side projects, and open source projects."
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: GULAG
+        link: "http://www.gulag.org.mx"
+        tagline: "Blog of the Group of Linux Users at Laguna. Contributor"
       - project:
         title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: Docker Hub
+        link: "https://hub.docker.com/u/deathscythe/"
+        tagline: "Docker images developed for github projects"
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        title: Blog
+        link: "https://alehpineda.com"
+        tagline: "Personal blog, using githug pages, jekyll, and travis-ci."
+      - project:
+        title: Github
+        link: "https://github.com/alehpineda"
+        tagline: "Github repositories with side proyects"        
 
 
 publications:
@@ -115,7 +116,6 @@ publications:
         title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
 
 skills:
     title: Skills &amp; Proficiency
