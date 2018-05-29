@@ -43,7 +43,7 @@ sidebar:
           item: Keto
           link:
         - interest:
-          item: Cooking
+          item: Books
           link:
 
 
@@ -78,17 +78,13 @@ projects:
     
     projects:
       - project:
-        title: GULAG
-        link: "http://www.gulag.org.mx"
-        tagline: "Blog of the Group of Linux Users at Laguna. Contributor"
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
         title: Docker Hub
         link: "https://hub.docker.com/u/deathscythe/"
         tagline: "Docker images developed for github projects"
+      - project:
+        title: GULAG
+        link: "http://www.gulag.org.mx"
+        tagline: "Contributor at Group of Linux Users at Laguna (GULAG)."        
       - project:
         title: Blog
         link: "https://alehpineda.com"
@@ -100,44 +96,68 @@ projects:
 
 
 publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    title: Publications, Workshops, and Talks
+    intro: ""
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Workshop - "Docker - From Zero to Hero"
+        authors: Alejandro H. Pineda
+        conference: Talent Land 2018
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: Training Course - "Full On Raspberry Pi"
+        authors: Alejandro H. Pineda
+        conference: Instituto Tecnologio Nacional de México - Campus Patzcuaro
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Talk - "Retro Pie - Make your own Retro Console"
+        authors: Alejandro H. Pineda
+        conference: FLISOL - Festival Interamericano de Software Libre 2018
+      - paper:
+        title: Talk - "Raspberry Pi - First Steps"
+        authors: Alejandro H. Pineda
+        conference: Universidad Autonoma de la Laguna 2017        
+      - paper:
+        title: Talk - "No More Mr. Nice Guy"
+        authors: Alejandro H. Pineda
+        conference: COPARMEX 2017
+
 
 skills:
     title: Skills &amp; Proficiency
     skills:
+        - skill:        
+          name: Python
+          level: 98%
+        - skill:        
+          name: Raspberry Pi
+          level: 98%          
         - skill:
-          name: Python & Django
+          name: GNU/Linux
+          level: 98%                              
+        - skill:
+          name: Docker
           level: 98%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Git & Github
+          level: 95%          
+        - skill:
+          name: HTML & CSS
+          level: 95%                    
+        - skill:
+          name: Data Visualization
+          level: 90%
+        - skill:
+          name: Data Analysis
+          level: 90%
+        - skill:
+          name: Machine Learning
+          level: 80%                   
         - skill:
           name: Angular
-          level: 98%
+          level: 80%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Deep Learning
+          level: 70%           
 
 
 footer: 
