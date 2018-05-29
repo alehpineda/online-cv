@@ -3,6 +3,9 @@ language: ruby
 rvm:
 - 2.5.1
 
+script:
+- jekyll build
+
 notifications:
   email: true
 
