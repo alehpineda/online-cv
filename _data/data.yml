@@ -37,10 +37,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Data
+          item: Data Science
           link:
         - interest:
-          item: Keto
+          item: Keto Diet
           link:
         - interest:
           item: Books
@@ -74,13 +74,17 @@ studies:
 
 projects:
     title: Projects
-    intro: "Portafolio, side projects, and open source projects."
+    intro: "Portfolio, side projects, and open source projects."
     
     projects:
       - project:
+        title: 3rd Place - Brewing Data Cup
+        link: "https://www.brewingdatacup.com"
+        tagline: "3rd Place of the first Data Science Hackaton by Grupo Modelo in Mexico."    
+      - project:
         title: Docker Hub
         link: "https://hub.docker.com/u/deathscythe/"
-        tagline: "Docker images developed for github projects"
+        tagline: "Docker images developed for github projects."
       - project:
         title: GULAG
         link: "http://www.gulag.org.mx"
@@ -125,6 +129,21 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     skills:
+        - skill:
+          name: Data Science
+          level: 95%    
+        - skill:
+          name: Data Visualization
+          level: 90%
+        - skill:
+          name: Data Analysis
+          level: 95%
+        - skill:
+          name: Machine Learning
+          level: 85%                   
+        - skill:
+          name: Deep Learning
+          level: 80%         
         - skill:        
           name: Python
           level: 98%
@@ -139,26 +158,16 @@ skills:
           level: 98%
         - skill:
           name: Git & Github
-          level: 95%          
+          level: 95%
+        - skill:
+          name: Microsoft Azure
+          level: 80%                    
         - skill:
           name: HTML & CSS
-          level: 95%                    
-        - skill:
-          name: Data Visualization
-          level: 90%
-        - skill:
-          name: Data Analysis
-          level: 90%
-        - skill:
-          name: Machine Learning
-          level: 80%                   
+          level: 95%                          
         - skill:
           name: Angular
           level: 80%
-        - skill:
-          name: Deep Learning
-          level: 70%           
-
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
