@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: My CV
-    url: 'http://alehpineda.com'
+    url: 'https://alehpineda.github.io/'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: alehpineda@gmail.com
     phone: +5218711866100
-    website: alehpineda.com #do not add http://
+    website: alehpineda.github.io #do not add http://
     linkedin: alehpineda
     github: alehpineda
     #twitter: '@webjeda'
