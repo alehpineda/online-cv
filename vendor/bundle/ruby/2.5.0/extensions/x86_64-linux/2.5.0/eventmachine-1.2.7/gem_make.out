@@ -1,5 +1,5 @@
 current directory: /home/travis/build/alehpineda/online-cv/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/home/travis/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190612-6288-mslr6l.rb extconf.rb
+/home/travis/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190717-17180-15wck36.rb extconf.rb
 creating Makefile
 
 current directory: /home/travis/build/alehpineda/online-cv/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -8,23 +8,23 @@ make "DESTDIR=" clean
 current directory: /home/travis/build/alehpineda/online-cv/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR="
 compiling mapper.cpp
-cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-self-assign" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-constant-logical-operand" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-parentheses-equality" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-tautological-compare" [enabled by default]
+cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+cc1plus: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1plus: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1plus: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+cc1plus: warning: unrecognized command line option ‘-Wno-tautological-compare’
 compiling rubymain.cpp
-cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++ [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-self-assign" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-constant-logical-operand" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-parentheses-equality" [enabled by default]
-cc1plus: warning: unrecognized command line option "-Wno-tautological-compare" [enabled by default]
+cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+cc1plus: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1plus: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1plus: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+cc1plus: warning: unrecognized command line option ‘-Wno-tautological-compare’
 linking shared-object fastfilereaderext.so
 
 current directory: /home/travis/build/alehpineda/online-cv/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20190612-6288-ebtiri
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190717-17180-s62jdq
