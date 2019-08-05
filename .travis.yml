@@ -13,6 +13,10 @@ branches:
   only:
     - master
 
+before_install:
+  - gem update --system
+  - gem --version
+
 deploy:
   provider: pages
   skip-cleanup: true
