@@ -19,7 +19,7 @@ sidebar:
     website: alehpineda.github.io #do not add http://
     linkedin: alehpineda
     github: alehpineda
-    #twitter: '@webjeda'
+    #twitter: '@deathscytheh'
 
     languages:
         - language:
@@ -51,17 +51,6 @@ career-profile:
     title: Career Profile
     text: 'Data Scientist and IT consultant on several areas like web development, software development, GNU/Linux servers, and IT Security. Big fan of Python language, Data Scientist wizard, Docker captain in training, Free Software advocate, I tango with Django, Raspberry Pi maker, Cloud Computing is only another guys computer, import this.'
 
-experiences:
-    - role: Innovation & Analytics Manager
-      time: Test 2
-      company: Grupo Modelo, part of the AB InBev family
-      details: Test 4
-
-    - role: CIINN - Centro de Innovacion Acelerada A. C.
-      time: Test 2
-      company: Test 3
-      details: Test 4
-
 studies: 
     - education:
       degree: Electrical Engineering, M.S.E
@@ -81,6 +70,25 @@ studies:
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
+experiences:
+    - experience:
+      role: Innovation & Analytics Manager
+      time: Test 2
+      company: Grupo Modelo, part of the AB InBev family
+      details: Test 4
+
+    - experience:
+      role: CIINN - Centro de Innovacion Acelerada A. C.
+      time: Test 2
+      company: Test 3
+      details: Test 4
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
 
 projects:
     title: Projects
@@ -121,15 +129,11 @@ publications:
       - paper:
         title: Workshop - "Docker - From Zero to Hero"
         authors: Alejandro H. Pineda
-        conference: Talent Land 2018
+        conference: Talent Land - Guadalajara 2018
       - paper:
         title: Training Course - "Full On Raspberry Pi"
         authors: Alejandro H. Pineda
-        conference: Instituto Tecnologio Nacional de México - Campus Patzcuaro
-      - paper:
-        title: Talk - "Retro Pie - Make your own Retro Console"
-        authors: Alejandro H. Pineda
-        conference: FLISOL - Festival Interamericano de Software Libre 2018
+        conference: Instituto Tecnologio Nacional de México - Campus Patzcuaro 2018
 
 
 skills:
