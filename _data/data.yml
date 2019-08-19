@@ -58,9 +58,9 @@ experiences:
       details: Test 4
 
     - role: CIINN - Centro de Innovacion Acelerada A. C.
-    time: Test 2
-    company: Test 3
-    details: Test 4
+      time: Test 2
+      company: Test 3
+      details: Test 4
 
 studies: 
     - education:
@@ -98,7 +98,7 @@ projects:
       - project:
         title: Blog
         link: "https://alehpineda.github.io"
-        tagline: "Personal blog, using githug pages, jekyll, and travis-ci."     
+        tagline: "Personal blog, using githug pages, jekyll, and travis-ci."
 
 
 publications:
