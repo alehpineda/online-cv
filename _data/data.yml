@@ -47,154 +47,114 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Data Scientist and IT consultant on several areas like machine learning, 
+      data visualization, backend development, GNU/Linux servers, and IT Security. 
+      
+      Big fan of Python, Docker captain in training, Free Software advocate. 
+      I tango with Django, Raspberry Pi baker, Cloud Computing is only another guys computer, 
+      import this.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Electrical Engineering, M.S.E
+      university: Instituto Tecnologico Nacional de México - Campus Laguna
+      time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Electronical Engineering
+      university: Instituto Tecnologico Nacional de México - Campus Laguna
+      time: 2006 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Describe your study here
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Innovation & Analytics Manager
+      time: 2018 - 2019
+      company: Grupo Modelo, part of the AB InBev family. Mexico city.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Using advance analytics, our team offered the business, 
+        insights. So, our stakeholders could take the best data driven descisions.
+        We created machine learning models, using inside and outside data sources. 
+        Also, developing analytical products (API, WebApps, Dashboards) that bring value to the Middle Americas Zone (14 countries).
+        On the innovation front, the team raised business necesities and pain points. 
+        With those in hand, we acted as Tinder and match the necesities with a scale up that could solve them. 
+        If the test pilot results were beyond the expectations, the business invested in the scale up.
 
-          - Bullet point
-          - Bullet point
+          - Predictive maintenance model
+          - Production lines clusters
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Co-founder & Innovation Director
+      time: 2013 - 2018
+      company: CIINN - Centro de Innovacion Acelerada A. C., Torreon, Coah.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Out of the necesity of helping the entrepreneurs of Torreon, Coahuila the CIINN was created.
+        We offered innovation courses, city and business insights, how to raise public and private capital.
+        Worked with the local goverment, NGOs, and local soccer team on several data projects in order to get insights.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - E-commerce survey & Insights
+          - Best social program
+          - Customer database cleaning
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Portfolio, side projects, and open source projects.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Github
+        link: "https://github.com/alehpineda"
+        tagline: "Github profile, portfolio, and side projects"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Docker Hub
+        link: "https://hub.docker.com/u/deathscythe/"
+        tagline: "Docker images developed for github projects."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Test site
+        link: "https://alehpineda.github.io"
+        tagline: "Test site, using githug pages, jekyll, and travis-ci."
 
 publications:
-    title: Publications
+    title: Publications, Workshops, and Talks
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Talks and workshops
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Workshop - "Data visualization with Tableau"
+        authors: Alejandro H. Pineda
+        conference: Talent Land - Guadalajara 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Workshop - "Docker - From Zero to Hero"
+        authors: Alejandro H. Pineda
+        conference: Talent Land - Guadalajara 2019
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Workshop - "Docker - From Zero to Hero"
+        authors: Alejandro H. Pineda
+        conference: Hacksureste - Merida 2018
+
+      - title: Workshop - "Docker - From Zero to Hero"
+        authors: Alejandro H. Pineda
+        conference: Talent Land - Guadalajara 2018
+
+      - title: Training Course - "Full On Raspberry Pi"
+        authors: Alejandro H. Pineda
+        conference: Instituto Tecnologio Nacional de México - Campus Patzcuaro 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Data science - Python, R, SQL, Excel
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Devops - Docker, Github, Gitlab, Travis CI
+        level: 85%
 
-      - name: Angular
-        level: 98%
+      - name: Cloud - AWS, Azure
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
